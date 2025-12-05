@@ -1,4 +1,4 @@
-export default function MealsPostPage({ params }) {
+export default function MealDetailsPage({ params }) {
     return (
         <main>
             <h1>
